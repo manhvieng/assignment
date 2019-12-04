@@ -1,0 +1,15 @@
+@media only screen and (min-width:300px) and (max-width: 720px){
+	.suq{
+		width: 100%;
+	}
+	h1{
+		
+	}
+	.nd{
+		padding: 5%
+	}
+	.m_br br, li br{
+		display: none
+	}
+}
+
